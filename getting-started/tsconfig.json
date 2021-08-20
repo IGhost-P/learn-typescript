@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "allowJs": true, // 해당 프로젝트에 js를 허용하겠다
+        "checkJs": true, //@ts-check 역할 , 타입스크립트 기능을 js에서 사용할수있게함
+        "noImplicitAny": true // 모든 타입에 대해서 최소한 기본적인 타입은 넣어야한다.
+    }
+}
